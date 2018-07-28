@@ -4,6 +4,7 @@ from scipy.io import wavfile
 from math import floor
 from numpy import random as rand
 from scipy.signal import butter, lfilter, freqz
+from bokeh.plotting import figure, output_file, show
 
 def gaussian_window(x):
 	return np.exp(-np.power(x - 0.5, 2.) / (2 * np.power(1/6., 2.)))
@@ -36,8 +37,8 @@ def rexpodec_window(x):
 def adsr_window(x):
 	xa = 0.1
 	xd = 0.1
-	ys = 0.8
-	xs = 0.2
+	ys = 0.5
+	xs = 0.6
 	xr = 0.1
 
 	def g1(z,l,u):
@@ -62,10 +63,15 @@ def signal_envelope(signal, windowId):
 							 'triangle': triangle_window,
 							 'sinc':		 sinc_window,
 							 'expodec':	 expodec_window,
-							 'rexpodec': rexpodec_window}
+							 'rexpodec': rexpodec_window,
+							 'adsr':		 adsr_window}
+	try:
+		return signal * windowFns[windowId](np.linspace(0, 1, len(signal)))
+	except KeyError:
+		print('Provide a valid window function name')
+		raise
 
-	return signal * windowFns[windowId](np.linspace(0, 1, len(signal)))
-
+# Constant power panning of mono signal into stereo
 def pan_signal(signal, angle):
 	left = np.sqrt(2)/2.0 * (np.cos(angle) - np.sin(angle)) * signal
 	right = np.sqrt(2)/2.0 * (np.cos(angle) + np.sin(angle)) * signal
@@ -84,8 +90,8 @@ def main():
 
 	### Parameters for distributions
 	# Low and high value of grain size uniform distribution
-	minGrainSz = int(1e-1 * fs)
-	maxGrainSz = int(1e-2 * fs)
+	minGrainSz = int(0.05 * fs)
+	maxGrainSz = int(0.01 * fs)
 
 	# Parameters for pan Gaussian
 	panMean = 0
@@ -113,7 +119,8 @@ def main():
 			# predefined parameters
 			sampleStart = int(rand.uniform(0, len(sgnl))) # might cause OOB if sampleStart + sampleLen > len(sgnl)
 			sampleEnd = int(sampleStart + rand.uniform(minGrainSz, maxGrainSz))
-			grain = np.round(signal_envelope(sgnl[sampleStart:sampleEnd], 'expodec'))
+			grain = np.round(signal_envelope(sgnl[sampleStart:sampleEnd], 'asdr'))
+
 
 			# Apply random panning to grain	
 			angle = rand.normal(panMean, panStd)
@@ -146,7 +153,21 @@ def main():
 	wavfile.write('./cloud.wav', fs, combined)
 	print('Number of grains: ' + str(grainCount))
 
-#main()
+main()
 
-print(adsr_window(np.linspace(0,1,20)))
+N = 50
+x = np.linspace(0,1,N)
+y = adsr_window(x)
+
+# output to static HTML file
+output_file("index.html", title="line plot example")
+
+# create a new plot with a title and axis labels
+p = figure(title="howdy ho neighbor!", x_axis_label='x', y_axis_label='y')
+
+# add a line renderer with legend and line thickness
+p.line(x, y, legend="Temp.", line_width=2)
+
+# show the results
+show(p)
 
