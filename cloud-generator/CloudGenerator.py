@@ -65,17 +65,17 @@ class CloudGenerator:
 		angle = rand.normal(self.panMean, self.panStd)
 		return pan_signal(grain, angle)
 
-	def _write_output_wav(self):
+	def _write_output_wav(self, outFilename):
 		# Add signals together and convert to 32-bit floating-point
 		scaled = np.float32(self.outWavs / 32768.0)
 		combined = np.sum(scaled, axis=2)
 		combined = np.float32(combined / 4.0)
 
 		# Write out to .wav file
-		wavfile.write('./cloud.wav', self.fs, combined)
+		wavfile.write(outFilename, self.fs, combined)
 		print('Number of grains: ' + str(self.grainCount))
 
-	def cloudify_signals(self):
+	def cloudify_signals(self, outFilename):
 		# Loop over each of the input signals
 		self.grainCount = 0
 		outputIter = 0
