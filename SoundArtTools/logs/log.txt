@@ -1,0 +1,810 @@
+2018-10-14 12:10:36.609 INFO Master splicer -- Initializing...
+2018-10-14 12:10:36.616 INFO Signal handler -- Initializing...
+2018-10-14 12:10:36.640 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:10:36.754 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:10:36.770 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:10:36.776 INFO Signal handler -- Initializing...
+2018-10-14 12:10:36.798 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:10:36.937 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:10:36.954 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:10:36.962 INFO Signal handler -- Initializing...
+2018-10-14 12:10:36.985 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:10:36.992 INFO Splicer tools -- Initializing...
+2018-10-14 12:10:36.999 INFO Time draw -- Initializing...
+2018-10-14 12:10:37.029 INFO Time draw -- Setup complete
+2018-10-14 12:10:37.035 INFO Splicer tools -- Setup complete
+2018-10-14 12:10:37.046 INFO Master splicer -- Setup complete
+2018-10-14 12:10:37.052 INFO Master splicer -- Showing gui
+2018-10-14 12:11:33.438 INFO Master splicer -- Initializing...
+2018-10-14 12:11:33.451 INFO Signal handler -- Initializing...
+2018-10-14 12:11:33.503 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:11:33.635 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:11:33.661 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:11:33.678 INFO Signal handler -- Initializing...
+2018-10-14 12:11:33.724 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:11:33.878 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:11:33.901 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:11:33.922 INFO Signal handler -- Initializing...
+2018-10-14 12:11:33.974 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:11:33.988 INFO Splicer tools -- Initializing...
+2018-10-14 12:11:34.016 INFO Time draw -- Initializing...
+2018-10-14 12:11:34.069 INFO Time draw -- Setup complete
+2018-10-14 12:11:34.084 INFO Splicer tools -- Setup complete
+2018-10-14 12:11:34.095 INFO Master splicer -- Setup complete
+2018-10-14 12:11:34.128 INFO Master splicer -- Showing gui
+2018-10-14 12:12:17.703 INFO Time draw -- Time chunk - Length: 0.9137931034482759s
+2018-10-14 12:12:18.213 INFO Time draw -- Time chunk - Length: 1.4137931034482758s
+2018-10-14 12:12:18.888 INFO Time draw -- Time chunk - Length: 0.9137931034482759s
+2018-10-14 12:12:19.523 INFO Time draw -- Time chunk - Length: 1.6206896551724137s
+2018-10-14 12:12:20.179 INFO Time draw -- Time chunk - Length: 1s
+2018-10-14 12:12:20.444 INFO Time draw -- Time chunk - Length: 1.603448275862069s
+2018-10-14 12:12:21.749 INFO Time draw -- Time chunk - Length: 1.6551724137931034s
+2018-10-14 12:12:22.223 INFO Time draw -- Complete - Time chunks:[0.91, 1.41, 0.91, 1.62, 1, 1.6, 1.66, 1.88]
+2018-10-14 12:12:22.258 INFO Time draw -- Time chunk - Length: 1.8793103448275863s
+2018-10-14 12:12:44.976 INFO Master splicer -- Initializing...
+2018-10-14 12:12:44.981 INFO Signal handler -- Initializing...
+2018-10-14 12:12:45.005 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:12:45.126 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:12:45.142 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:12:45.148 INFO Signal handler -- Initializing...
+2018-10-14 12:12:45.170 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:12:45.315 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:12:45.332 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:12:45.338 INFO Signal handler -- Initializing...
+2018-10-14 12:12:45.359 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:12:45.365 INFO Splicer tools -- Initializing...
+2018-10-14 12:12:45.371 INFO Time draw -- Initializing...
+2018-10-14 12:12:45.394 INFO Time draw -- Setup complete
+2018-10-14 12:12:45.403 INFO Splicer tools -- Setup complete
+2018-10-14 12:12:45.409 INFO Master splicer -- Setup complete
+2018-10-14 12:12:55.374 INFO Master splicer -- Initializing...
+2018-10-14 12:12:55.379 INFO Signal handler -- Initializing...
+2018-10-14 12:12:55.403 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:12:55.524 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:12:55.541 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:12:55.546 INFO Signal handler -- Initializing...
+2018-10-14 12:12:55.568 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:12:55.710 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:12:55.728 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:12:55.734 INFO Signal handler -- Initializing...
+2018-10-14 12:12:55.755 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:12:55.761 INFO Splicer tools -- Initializing...
+2018-10-14 12:12:55.768 INFO Time draw -- Initializing...
+2018-10-14 12:12:55.790 INFO Time draw -- Setup complete
+2018-10-14 12:12:55.796 INFO Splicer tools -- Setup complete
+2018-10-14 12:12:55.806 INFO Master splicer -- Setup complete
+2018-10-14 12:13:06.250 INFO Master splicer -- Initializing...
+2018-10-14 12:13:06.255 INFO Signal handler -- Initializing...
+2018-10-14 12:13:06.277 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:13:06.391 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:13:06.408 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:13:06.414 INFO Signal handler -- Initializing...
+2018-10-14 12:13:06.437 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:13:06.575 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:13:06.592 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:13:06.598 INFO Signal handler -- Initializing...
+2018-10-14 12:13:06.622 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:13:06.627 INFO Splicer tools -- Initializing...
+2018-10-14 12:13:06.634 INFO Time draw -- Initializing...
+2018-10-14 12:13:06.659 INFO Time draw -- Setup complete
+2018-10-14 12:13:06.665 INFO Splicer tools -- Setup complete
+2018-10-14 12:13:06.674 INFO Master splicer -- Setup complete
+2018-10-14 12:13:06.680 INFO Master splicer -- Showing gui
+2018-10-14 12:15:07.464 INFO Master splicer -- Initializing...
+2018-10-14 12:15:07.478 INFO Signal handler -- Initializing...
+2018-10-14 12:15:07.513 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:15:07.644 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:15:07.667 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:15:07.695 INFO Signal handler -- Initializing...
+2018-10-14 12:15:07.728 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:15:07.893 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:15:07.920 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:15:07.945 INFO Signal handler -- Initializing...
+2018-10-14 12:15:07.992 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:15:08.006 INFO Splicer tools -- Initializing...
+2018-10-14 12:15:08.020 INFO Time draw -- Initializing...
+2018-10-14 12:15:08.072 INFO Time draw -- Setup complete
+2018-10-14 12:15:08.083 INFO Splicer tools -- Setup complete
+2018-10-14 12:15:08.107 INFO Master splicer -- Setup complete
+2018-10-14 12:15:08.122 INFO Master splicer -- Showing gui
+2018-10-14 12:15:23.792 INFO Time draw -- Time chunk - Length: -1.3103448275862069s
+2018-10-14 12:15:24.809 INFO Time draw -- Time chunk - Length: 1.3275862068965518s
+2018-10-14 12:15:25.240 INFO Time draw -- Time chunk - Length: 0.896551724137931s
+2018-10-14 12:15:25.421 INFO Time draw -- Time chunk - Length: 1.2586206896551724s
+2018-10-14 12:15:25.899 INFO Time draw -- Time chunk - Length: 1.1206896551724137s
+2018-10-14 12:15:26.048 INFO Time draw -- Time chunk - Length: 1.1724137931034482s
+2018-10-14 12:15:26.584 INFO Time draw -- Time chunk - Length: 0.7931034482758621s
+2018-10-14 12:15:26.767 INFO Time draw -- Time chunk - Length: 0.8448275862068966s
+2018-10-14 12:15:27.205 INFO Time draw -- Time chunk - Length: 0.9655172413793104s
+2018-10-14 12:15:27.358 INFO Time draw -- Complete - Time chunks:[0, 1.33, 0.9, 1.26, 1.12, 1.17, 0.79, 0.84, 0.97, 1]
+2018-10-14 12:15:27.406 INFO Time draw -- Time chunk - Length: 1s
+2018-10-14 12:15:29.962 INFO Signal handler -- Samples imported
+2018-10-14 12:15:30.306 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100796  Sample rate: 16000Hz
+2018-10-14 12:23:31.464 INFO Master splicer -- Initializing...
+2018-10-14 12:23:31.480 INFO Signal handler -- Initializing...
+2018-10-14 12:23:31.531 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:23:31.678 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:23:31.705 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:23:31.722 INFO Signal handler -- Initializing...
+2018-10-14 12:23:31.773 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:23:31.944 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:23:31.972 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:23:31.988 INFO Signal handler -- Initializing...
+2018-10-14 12:23:32.027 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:23:32.043 INFO Splicer tools -- Initializing...
+2018-10-14 12:23:32.056 INFO Time draw -- Initializing...
+2018-10-14 12:23:32.112 INFO Time draw -- Setup complete
+2018-10-14 12:23:32.128 INFO Splicer tools -- Setup complete
+2018-10-14 12:23:32.158 INFO Master splicer -- Setup complete
+2018-10-14 12:23:32.177 INFO Master splicer -- Showing gui
+2018-10-14 12:23:45.519 INFO Time draw -- Time chunk - Length: 1.8103448275862069s
+2018-10-14 12:23:46.136 INFO Time draw -- Time chunk - Length: 1.1724137931034482s
+2018-10-14 12:23:46.617 INFO Time draw -- Time chunk - Length: 1.3448275862068966s
+2018-10-14 12:23:48.243 INFO Time draw -- Time chunk - Length: 1.603448275862069s
+2018-10-14 12:23:49.888 INFO Time draw -- Time chunk - Length: 1.3275862068965518s
+2018-10-14 12:23:51.620 INFO Time draw -- Time chunk - Length: 1.3793103448275863s
+2018-10-14 12:23:52.826 INFO Time draw -- Time chunk - Length: 1.3275862068965518s
+2018-10-14 12:23:54.286 INFO Time draw -- Complete - Time chunks:[1.81, 1.17, 1.34, 1.6, 1.33, 1.38, 1.33, 1.72]
+2018-10-14 12:23:54.332 INFO Time draw -- Time chunk - Length: 1.7241379310344827s
+2018-10-14 12:23:57.102 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:23:57.131 INFO Signal handler -- Samples imported
+2018-10-14 12:23:57.474 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100795  Sample rate: 16000Hz
+2018-10-14 12:23:58.076 INFO Master splicer -- Done splicing audio
+2018-10-14 12:24:12.439 INFO Signal handler -- Playing sound file...
+2018-10-14 12:24:18.946 INFO Signal handler -- Audio file done playing
+2018-10-14 12:27:59.724 INFO Master splicer -- Initializing...
+2018-10-14 12:28:16.079 INFO Master splicer -- Initializing...
+2018-10-14 12:28:16.088 INFO Signal handler -- Initializing...
+2018-10-14 12:28:16.118 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:28:16.242 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:28:16.261 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:28:16.271 INFO Signal handler -- Initializing...
+2018-10-14 12:28:16.296 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:28:16.439 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:28:16.457 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:28:16.464 INFO Signal handler -- Initializing...
+2018-10-14 12:28:16.488 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:28:16.494 INFO Splicer tools -- Initializing...
+2018-10-14 12:28:16.503 INFO Time draw -- Initializing...
+2018-10-14 12:28:16.525 INFO Time draw -- Setup complete
+2018-10-14 12:28:16.532 INFO Splicer tools -- Setup complete
+2018-10-14 12:28:16.541 INFO Master splicer -- Setup complete
+2018-10-14 12:28:16.549 INFO Master splicer -- Showing gui
+2018-10-14 12:28:48.209 INFO Master splicer -- Initializing...
+2018-10-14 12:28:48.222 INFO Signal handler -- Initializing...
+2018-10-14 12:28:48.270 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:28:48.417 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:28:48.441 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:28:48.461 INFO Signal handler -- Initializing...
+2018-10-14 12:28:48.493 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:28:48.667 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:28:48.694 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:28:48.711 INFO Signal handler -- Initializing...
+2018-10-14 12:28:48.758 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:28:48.769 INFO Splicer tools -- Initializing...
+2018-10-14 12:28:48.795 INFO Time draw -- Initializing...
+2018-10-14 12:28:48.825 INFO Time draw -- Setup complete
+2018-10-14 12:28:48.850 INFO Splicer tools -- Setup complete
+2018-10-14 12:28:48.885 INFO Master splicer -- Setup complete
+2018-10-14 12:28:48.911 INFO Master splicer -- Showing gui
+2018-10-14 12:29:08.608 INFO Time draw -- Time chunk - Length: 0.7758620689655172s
+2018-10-14 12:29:09.018 INFO Time draw -- Time chunk - Length: 1.3275862068965518s
+2018-10-14 12:29:09.528 INFO Time draw -- Time chunk - Length: 1.1896551724137931s
+2018-10-14 12:29:09.805 INFO Time draw -- Time chunk - Length: 1.3448275862068966s
+2018-10-14 12:29:10.835 INFO Time draw -- Time chunk - Length: 0.7413793103448276s
+2018-10-14 12:29:11.261 INFO Time draw -- Time chunk - Length: 0.3620689655172414s
+2018-10-14 12:29:11.393 INFO Time draw -- Time chunk - Length: 0.3793103448275862s
+2018-10-14 12:29:11.665 INFO Time draw -- Time chunk - Length: 0.5862068965517241s
+2018-10-14 12:29:12.971 INFO Time draw -- Time chunk - Length: 0.6724137931034483s
+2018-10-14 12:29:13.805 INFO Time draw -- Time chunk - Length: 0.9827586206896551s
+2018-10-14 12:29:14.615 INFO Time draw -- Time chunk - Length: 0.9827586206896551s
+2018-10-14 12:29:17.170 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:29:32.024 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:29:32.725 INFO Time draw -- Complete - Time chunks:[0.78, 1.33, 1.19, 1.34, 0.74, 0.36, 0.38, 0.59, 0.67, 0.98, 0.98, 0.34, 0.38]
+2018-10-14 12:29:32.759 INFO Time draw -- Time chunk - Length: 0.3793103448275862s
+2018-10-14 12:29:33.925 INFO Time draw -- Complete - Time chunks:[0.78, 1.33, 1.19, 1.34, 0.74, 0.36, 0.38, 0.59, 0.67, 0.98, 0.98, 0.34, 0.38, 0.64]
+2018-10-14 12:29:33.965 INFO Time draw -- Time chunk - Length: 0.6379310344827587s
+2018-10-14 12:29:36.107 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:29:36.148 INFO Signal handler -- Samples imported
+2018-10-14 12:29:36.490 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100794  Sample rate: 16000Hz
+2018-10-14 12:29:37.160 INFO Master splicer -- Done splicing audio
+2018-10-14 12:29:48.713 INFO Signal handler -- Playing sound file...
+2018-10-14 12:29:55.227 INFO Signal handler -- Audio file done playing
+2018-10-14 12:29:56.875 INFO Signal handler -- Playing sound file...
+2018-10-14 12:30:03.389 INFO Signal handler -- Audio file done playing
+2018-10-14 12:30:34.914 INFO Master splicer -- Initializing...
+2018-10-14 12:30:34.919 INFO Signal handler -- Initializing...
+2018-10-14 12:30:34.944 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:30:35.058 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:30:35.076 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:30:35.082 INFO Signal handler -- Initializing...
+2018-10-14 12:30:35.105 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:30:35.240 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:30:35.260 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:30:35.268 INFO Signal handler -- Initializing...
+2018-10-14 12:30:35.302 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:30:35.315 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:30:35.373 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:30:35.392 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:30:35.399 INFO Signal handler -- Initializing...
+2018-10-14 12:30:35.423 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:30:35.432 INFO Splicer tools -- Initializing...
+2018-10-14 12:30:35.445 INFO Time draw -- Initializing...
+2018-10-14 12:30:35.472 INFO Time draw -- Setup complete
+2018-10-14 12:30:35.482 INFO Splicer tools -- Setup complete
+2018-10-14 12:30:35.493 INFO Master splicer -- Setup complete
+2018-10-14 12:30:35.502 INFO Master splicer -- Showing gui
+2018-10-14 12:31:06.745 INFO Master splicer -- Initializing...
+2018-10-14 12:31:06.761 INFO Signal handler -- Initializing...
+2018-10-14 12:31:06.835 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:31:07.164 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:31:07.226 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:31:07.253 INFO Signal handler -- Initializing...
+2018-10-14 12:31:07.353 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:31:07.580 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:31:07.611 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:31:07.628 INFO Signal handler -- Initializing...
+2018-10-14 12:31:07.702 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:31:07.726 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:31:07.822 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:31:07.856 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:31:07.873 INFO Signal handler -- Initializing...
+2018-10-14 12:31:07.924 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:31:07.939 INFO Splicer tools -- Initializing...
+2018-10-14 12:31:07.955 INFO Time draw -- Initializing...
+2018-10-14 12:31:08.010 INFO Time draw -- Setup complete
+2018-10-14 12:31:08.024 INFO Splicer tools -- Setup complete
+2018-10-14 12:31:08.037 INFO Master splicer -- Setup complete
+2018-10-14 12:31:08.073 INFO Master splicer -- Showing gui
+2018-10-14 12:31:25.848 INFO Time draw -- Time chunk - Length: 0.4482758620689655s
+2018-10-14 12:31:26.169 INFO Time draw -- Time chunk - Length: 0.7068965517241379s
+2018-10-14 12:31:26.518 INFO Time draw -- Time chunk - Length: 0.8275862068965517s
+2018-10-14 12:31:27.051 INFO Time draw -- Time chunk - Length: 0.5862068965517241s
+2018-10-14 12:31:27.518 INFO Time draw -- Time chunk - Length: 0.5344827586206896s
+2018-10-14 12:31:27.866 INFO Time draw -- Time chunk - Length: 0.7931034482758621s
+2018-10-14 12:31:28.391 INFO Time draw -- Time chunk - Length: 0.5689655172413793s
+2018-10-14 12:31:28.722 INFO Time draw -- Time chunk - Length: 0.9482758620689655s
+2018-10-14 12:31:29.265 INFO Time draw -- Time chunk - Length: 0.6379310344827587s
+2018-10-14 12:31:30.906 INFO Time draw -- Time chunk - Length: 0.9827586206896551s
+2018-10-14 12:31:32.278 INFO Time draw -- Time chunk - Length: 1.1896551724137931s
+2018-10-14 12:31:33.795 INFO Time draw -- Time chunk - Length: 1.1896551724137931s
+2018-10-14 12:31:35.192 INFO Time draw -- Complete - Time chunks:[0.45, 0.71, 0.83, 0.59, 0.53, 0.79, 0.57, 0.95, 0.64, 0.98, 1.19, 1.19, 1.02]
+2018-10-14 12:31:35.237 INFO Time draw -- Time chunk - Length: 1.0172413793103448s
+2018-10-14 12:31:37.766 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:31:37.792 INFO Signal handler -- Samples imported
+2018-10-14 12:31:37.908 INFO Signal handler -- Length: 1.468s  Channels: 1  Samples: 23487  Sample rate: 16000Hz
+2018-10-14 12:31:38.338 INFO Master splicer -- Done splicing audio
+2018-10-14 12:31:46.470 INFO Signal handler -- Playing sound file...
+2018-10-14 12:31:48.148 INFO Signal handler -- Audio file done playing
+2018-10-14 12:31:49.887 INFO Signal handler -- Playing sound file...
+2018-10-14 12:31:51.569 INFO Signal handler -- Audio file done playing
+2018-10-14 12:31:59.727 INFO Time draw -- Time chunk - Length: 0.5172413793103449s
+2018-10-14 12:32:00.711 INFO Time draw -- Time chunk - Length: 0.22413793103448276s
+2018-10-14 12:32:00.941 INFO Time draw -- Time chunk - Length: 0.1724137931034483s
+2018-10-14 12:32:01.124 INFO Time draw -- Time chunk - Length: 0.15517241379310345s
+2018-10-14 12:32:01.328 INFO Time draw -- Time chunk - Length: 0.13793103448275862s
+2018-10-14 12:32:01.483 INFO Time draw -- Time chunk - Length: 0.1206896551724138s
+2018-10-14 12:32:01.608 INFO Time draw -- Time chunk - Length: 0.1206896551724138s
+2018-10-14 12:32:01.714 INFO Time draw -- Time chunk - Length: 0.1206896551724138s
+2018-10-14 12:32:01.849 INFO Time draw -- Time chunk - Length: 0.13793103448275862s
+2018-10-14 12:32:01.966 INFO Time draw -- Time chunk - Length: 0.1724137931034483s
+2018-10-14 12:32:02.109 INFO Time draw -- Time chunk - Length: 0.20689655172413793s
+2018-10-14 12:32:02.281 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:32:02.552 INFO Time draw -- Time chunk - Length: 0.3103448275862069s
+2018-10-14 12:32:02.842 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:32:03.108 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:32:03.279 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:32:03.420 INFO Time draw -- Time chunk - Length: 0.3620689655172414s
+2018-10-14 12:32:03.544 INFO Time draw -- Time chunk - Length: 0.4827586206896552s
+2018-10-14 12:32:03.790 INFO Time draw -- Time chunk - Length: 0.7241379310344828s
+2018-10-14 12:32:04.028 INFO Time draw -- Time chunk - Length: 0.7931034482758621s
+2018-10-14 12:32:04.344 INFO Time draw -- Time chunk - Length: 0.4482758620689655s
+2018-10-14 12:32:05.553 INFO Time draw -- Time chunk - Length: 0.41379310344827586s
+2018-10-14 12:32:05.796 INFO Time draw -- Time chunk - Length: 1s
+2018-10-14 12:32:07.104 INFO Time draw -- Time chunk - Length: 1.6896551724137931s
+2018-10-14 12:32:08.692 INFO Time draw -- Complete - Time chunks:[0.52, 0.22, 0.17, 0.16, 0.14, 0.12, 0.12, 0.12, 0.14, 0.17, 0.21, 0.28, 0.31, 0.28, 0.24, 0.28, 0.36, 0.48, 0.72, 0.79, 0.45, 0.41, 1, 1.69, 1.67]
+2018-10-14 12:32:08.864 INFO Time draw -- Time chunk - Length: 1.6724137931034482s
+2018-10-14 12:32:11.884 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:32:11.913 INFO Signal handler -- Samples imported
+2018-10-14 12:32:12.044 INFO Signal handler -- Length: 1.468s  Channels: 1  Samples: 23480  Sample rate: 16000Hz
+2018-10-14 12:32:12.446 INFO Master splicer -- Done splicing audio
+2018-10-14 12:32:19.283 INFO Signal handler -- Playing sound file...
+2018-10-14 12:32:20.961 INFO Signal handler -- Audio file done playing
+2018-10-14 12:32:59.496 INFO Master splicer -- Initializing...
+2018-10-14 12:32:59.511 INFO Signal handler -- Initializing...
+2018-10-14 12:32:59.563 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 12:32:59.708 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 12:32:59.742 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:32:59.765 INFO Signal handler -- Initializing...
+2018-10-14 12:32:59.820 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 12:32:59.991 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 12:33:00.022 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:33:00.041 INFO Signal handler -- Initializing...
+2018-10-14 12:33:00.113 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:33:00.147 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:33:00.231 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:33:00.262 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:33:00.280 INFO Signal handler -- Initializing...
+2018-10-14 12:33:00.328 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:33:00.344 INFO Splicer tools -- Initializing...
+2018-10-14 12:33:00.372 INFO Time draw -- Initializing...
+2018-10-14 12:33:00.407 INFO Time draw -- Setup complete
+2018-10-14 12:33:00.429 INFO Splicer tools -- Setup complete
+2018-10-14 12:33:00.457 INFO Master splicer -- Setup complete
+2018-10-14 12:33:00.477 INFO Master splicer -- Showing gui
+2018-10-14 12:33:19.157 INFO Time draw -- Time chunk - Length: 0.7413793103448276s
+2018-10-14 12:33:19.605 INFO Time draw -- Time chunk - Length: 0.46551724137931033s
+2018-10-14 12:33:19.857 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:33:20.057 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:33:20.152 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:33:20.308 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:33:20.466 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:33:20.653 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:33:20.788 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:33:21.145 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:33:21.275 INFO Time draw -- Time chunk - Length: 0.3103448275862069s
+2018-10-14 12:33:21.426 INFO Time draw -- Time chunk - Length: 0.3793103448275862s
+2018-10-14 12:33:21.656 INFO Time draw -- Time chunk - Length: 0.7758620689655172s
+2018-10-14 12:33:22.036 INFO Time draw -- Time chunk - Length: 0.8793103448275862s
+2018-10-14 12:33:22.374 INFO Time draw -- Time chunk - Length: 0.5689655172413793s
+2018-10-14 12:33:22.842 INFO Time draw -- Time chunk - Length: 0.8275862068965517s
+2018-10-14 12:33:23.752 INFO Time draw -- Time chunk - Length: 0.8793103448275862s
+2018-10-14 12:33:25.004 INFO Time draw -- Time chunk - Length: 1.0344827586206897s
+2018-10-14 12:33:25.390 INFO Time draw -- Time chunk - Length: 0.7758620689655172s
+2018-10-14 12:33:27.517 INFO Time draw -- Complete - Time chunks:[0.74, 0.47, 0.28, 0.28, 0.26, 0.24, 0.24, 0.24, 0.26, 0.28, 0.31, 0.38, 0.78, 0.88, 0.57, 0.83, 0.88, 1.03, 0.78, 1.07]
+2018-10-14 12:33:27.563 INFO Time draw -- Time chunk - Length: 1.0689655172413792s
+2018-10-14 12:33:29.708 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:33:29.741 INFO Signal handler -- Samples imported
+2018-10-14 12:33:29.856 INFO Signal handler -- Length: 1.468s  Channels: 1  Samples: 23484  Sample rate: 16000Hz
+2018-10-14 12:33:30.392 INFO Master splicer -- Done splicing audio
+2018-10-14 12:33:47.740 INFO Signal handler -- Playing sound file...
+2018-10-14 12:33:49.424 INFO Signal handler -- Audio file done playing
+2018-10-14 12:34:31.167 INFO Signal handler -- Audio file imported - Name: ClipFly me to the moon.wav
+2018-10-14 12:34:31.562 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:34:33.224 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:34:45.524 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 12:34:45.892 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:34:47.521 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:35:02.542 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 12:35:03.923 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:35:19.488 INFO Time draw -- Time chunk - Length: 0.6896551724137931s
+2018-10-14 12:35:19.858 INFO Time draw -- Time chunk - Length: 0.6896551724137931s
+2018-10-14 12:35:20.207 INFO Time draw -- Time chunk - Length: 0.8275862068965517s
+2018-10-14 12:35:20.690 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:35:20.889 INFO Time draw -- Time chunk - Length: 0.22413793103448276s
+2018-10-14 12:35:21.024 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:35:21.191 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:35:21.404 INFO Time draw -- Time chunk - Length: 0.27586206896551724s
+2018-10-14 12:35:21.605 INFO Time draw -- Time chunk - Length: 0.39655172413793105s
+2018-10-14 12:35:21.851 INFO Time draw -- Time chunk - Length: 0.6379310344827587s
+2018-10-14 12:35:22.073 INFO Time draw -- Time chunk - Length: 0.5689655172413793s
+2018-10-14 12:35:22.386 INFO Time draw -- Time chunk - Length: 0.3793103448275862s
+2018-10-14 12:35:22.609 INFO Time draw -- Time chunk - Length: 0.3620689655172414s
+2018-10-14 12:35:22.806 INFO Time draw -- Time chunk - Length: 0.3620689655172414s
+2018-10-14 12:35:24.137 INFO Time draw -- Time chunk - Length: 0.41379310344827586s
+2018-10-14 12:35:24.303 INFO Time draw -- Time chunk - Length: 0.39655172413793105s
+2018-10-14 12:35:25.408 INFO Time draw -- Time chunk - Length: 0.39655172413793105s
+2018-10-14 12:35:25.471 INFO Time draw -- Time chunk - Length: 0.41379310344827586s
+2018-10-14 12:35:25.933 INFO Time draw -- Time chunk - Length: 0.43103448275862066s
+2018-10-14 12:35:27.211 INFO Time draw -- Time chunk - Length: 0.5862068965517241s
+2018-10-14 12:35:27.638 INFO Time draw -- Time chunk - Length: 0.4827586206896552s
+2018-10-14 12:35:28.970 INFO Time draw -- Time chunk - Length: 0.6206896551724138s
+2018-10-14 12:35:29.389 INFO Time draw -- Complete - Time chunks:[0.69, 0.69, 0.83, 0.26, 0.22, 0.24, 0.26, 0.28, 0.4, 0.64, 0.57, 0.38, 0.36, 0.36, 0.41, 0.4, 0.4, 0.41, 0.43, 0.59, 0.48, 0.62, 0.62]
+2018-10-14 12:35:29.443 INFO Time draw -- Time chunk - Length: 0.6206896551724138s
+2018-10-14 12:35:31.167 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:35:31.285 INFO Signal handler -- Samples imported
+2018-10-14 12:35:32.717 INFO Signal handler -- Length: 19.999s  Channels: 1  Samples: 440988  Sample rate: 22050Hz
+2018-10-14 12:35:34.502 INFO Master splicer -- Done splicing audio
+2018-10-14 12:36:01.727 INFO Signal handler -- Playing sound file...
+2018-10-14 12:36:21.938 INFO Signal handler -- Audio file done playing
+2018-10-14 12:36:44.356 INFO Time draw -- Time chunk - Length: 3.4827586206896552s
+2018-10-14 12:36:47.921 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:36:48.131 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:36:48.329 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:36:48.501 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:48.662 INFO Time draw -- Time chunk - Length: 0.29310344827586204s
+2018-10-14 12:36:48.880 INFO Time draw -- Time chunk - Length: 0.29310344827586204s
+2018-10-14 12:36:49.088 INFO Time draw -- Time chunk - Length: 0.20689655172413793s
+2018-10-14 12:36:49.245 INFO Time draw -- Time chunk - Length: 0.1896551724137931s
+2018-10-14 12:36:49.423 INFO Time draw -- Time chunk - Length: 0.1896551724137931s
+2018-10-14 12:36:49.578 INFO Time draw -- Time chunk - Length: 0.1896551724137931s
+2018-10-14 12:36:49.837 INFO Time draw -- Time chunk - Length: 0.1896551724137931s
+2018-10-14 12:36:50.130 INFO Time draw -- Time chunk - Length: 0.1896551724137931s
+2018-10-14 12:36:50.340 INFO Time draw -- Time chunk - Length: 0.22413793103448276s
+2018-10-14 12:36:51.044 INFO Time draw -- Time chunk - Length: 0.3793103448275862s
+2018-10-14 12:36:51.270 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:36:51.472 INFO Time draw -- Time chunk - Length: 0.2413793103448276s
+2018-10-14 12:36:51.707 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:51.893 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:52.062 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:52.267 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:52.445 INFO Time draw -- Time chunk - Length: 0.25862068965517243s
+2018-10-14 12:36:52.620 INFO Time draw -- Time chunk - Length: 0.29310344827586204s
+2018-10-14 12:36:52.825 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:36:53.090 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:36:53.327 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:36:53.507 INFO Time draw -- Complete - Time chunks:[3.48, 0.24, 0.24, 0.24, 0.26, 0.29, 0.29, 0.21, 0.19, 0.19, 0.19, 0.19, 0.19, 0.22, 0.38, 0.24, 0.24, 0.26, 0.26, 0.26, 0.26, 0.26, 0.29, 0.34, 0.34, 0.34, 0.34]
+2018-10-14 12:36:53.553 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:36:53.678 INFO Time draw -- Complete - Time chunks:[3.48, 0.24, 0.24, 0.24, 0.26, 0.29, 0.29, 0.21, 0.19, 0.19, 0.19, 0.19, 0.19, 0.22, 0.38, 0.24, 0.24, 0.26, 0.26, 0.26, 0.26, 0.26, 0.29, 0.34, 0.34, 0.34, 0.34, 0.34]
+2018-10-14 12:36:53.734 INFO Time draw -- Time chunk - Length: 0.3448275862068966s
+2018-10-14 12:36:55.725 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:36:55.856 INFO Signal handler -- Samples imported
+2018-10-14 12:36:57.391 INFO Signal handler -- Length: 20.0s  Channels: 1  Samples: 440989  Sample rate: 22050Hz
+2018-10-14 12:36:58.873 INFO Master splicer -- Done splicing audio
+2018-10-14 12:37:17.569 INFO Signal handler -- Playing sound file...
+2018-10-14 12:37:37.779 INFO Signal handler -- Audio file done playing
+2018-10-14 12:40:48.257 INFO Master rearranger -- Initializing...
+2018-10-14 12:40:48.271 INFO Signal handler -- Initializing...
+2018-10-14 12:40:48.334 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:40:48.368 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:40:48.455 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:40:48.484 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:40:48.507 INFO Signal handler -- Initializing...
+2018-10-14 12:40:48.557 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:40:48.571 INFO Rearranger tools -- Initializing...
+2018-10-14 12:40:48.623 INFO Rearranger tools -- Setup complete
+2018-10-14 12:40:48.638 INFO Master rearranger -- Setup complete
+2018-10-14 12:54:17.715 INFO Master rearranger -- Initializing...
+2018-10-14 12:54:17.729 INFO Signal handler -- Initializing...
+2018-10-14 12:54:17.813 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:54:17.833 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:54:17.946 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:54:17.975 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:54:17.995 INFO Signal handler -- Initializing...
+2018-10-14 12:54:18.063 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:54:18.079 INFO Rearranger tools -- Initializing...
+2018-10-14 12:54:18.109 INFO Rearranger tools -- Setup complete
+2018-10-14 12:54:18.145 INFO Master rearranger -- Setup complete
+2018-10-14 12:55:22.236 INFO Master splicer -- Initializing...
+2018-10-14 12:55:22.243 INFO Signal handler -- Initializing...
+2018-10-14 12:55:22.272 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 12:55:22.291 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:55:22.723 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:55:22.755 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:55:22.763 INFO Signal handler -- Initializing...
+2018-10-14 12:55:22.789 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 12:55:22.805 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:55:23.251 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:55:23.284 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:55:23.292 INFO Signal handler -- Initializing...
+2018-10-14 12:55:23.319 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:55:23.328 INFO Splicer tools -- Initializing...
+2018-10-14 12:55:23.341 INFO Time draw -- Initializing...
+2018-10-14 12:55:23.367 INFO Time draw -- Setup complete
+2018-10-14 12:55:23.376 INFO Splicer tools -- Setup complete
+2018-10-14 12:55:23.388 INFO Master splicer -- Setup complete
+2018-10-14 12:55:23.399 INFO Master splicer -- Showing gui
+2018-10-14 12:55:54.078 INFO Master rearranger -- Initializing...
+2018-10-14 12:55:54.095 INFO Signal handler -- Initializing...
+2018-10-14 12:55:54.160 INFO Signal handler -- Audio file imported - Name: 2ch.wav
+2018-10-14 12:55:54.197 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:55:54.279 INFO Signal handler -- Length: 2.937s  Channels: 2  Samples: 23493  Sample rate: 8000Hz
+2018-10-14 12:55:54.306 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:55:54.325 INFO Signal handler -- Initializing...
+2018-10-14 12:55:54.358 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:55:54.386 INFO Rearranger tools -- Initializing...
+2018-10-14 12:55:54.436 INFO Rearranger tools -- Setup complete
+2018-10-14 12:55:54.450 INFO Master rearranger -- Setup complete
+2018-10-14 12:56:07.805 INFO Master splicer -- Initializing...
+2018-10-14 12:56:07.819 INFO Signal handler -- Initializing...
+2018-10-14 12:56:07.877 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 12:56:07.902 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:56:08.449 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:56:08.496 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:56:08.513 INFO Signal handler -- Initializing...
+2018-10-14 12:56:08.561 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 12:56:08.609 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:56:09.135 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:56:09.183 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:56:09.200 INFO Signal handler -- Initializing...
+2018-10-14 12:56:09.257 INFO Signal handler -- Audio file imported - Name: ClipFly me to the moon.wav
+2018-10-14 12:56:09.287 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:56:09.886 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:56:09.928 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:56:09.945 INFO Signal handler -- Initializing...
+2018-10-14 12:56:09.978 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:56:09.996 INFO Splicer tools -- Initializing...
+2018-10-14 12:56:10.015 INFO Time draw -- Initializing...
+2018-10-14 12:56:10.067 INFO Time draw -- Setup complete
+2018-10-14 12:56:10.081 INFO Splicer tools -- Setup complete
+2018-10-14 12:56:10.094 INFO Master splicer -- Setup complete
+2018-10-14 12:56:10.124 INFO Master splicer -- Showing gui
+2018-10-14 12:57:05.815 INFO Time draw -- Time chunk - Length: 0.022167487684729068s
+2018-10-14 12:57:06.027 INFO Time draw -- Time chunk - Length: 0.022167487684729068s
+2018-10-14 12:57:06.210 INFO Time draw -- Time chunk - Length: 0.029556650246305424s
+2018-10-14 12:57:06.565 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:06.865 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:07.007 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:07.171 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:07.342 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:07.492 INFO Time draw -- Time chunk - Length: 0.03694581280788178s
+2018-10-14 12:57:07.714 INFO Time draw -- Time chunk - Length: 0.041871921182266014s
+2018-10-14 12:57:07.918 INFO Time draw -- Time chunk - Length: 0.049261083743842374s
+2018-10-14 12:57:08.157 INFO Time draw -- Time chunk - Length: 0.049261083743842374s
+2018-10-14 12:57:08.357 INFO Time draw -- Time chunk - Length: 0.05172413793103449s
+2018-10-14 12:57:08.560 INFO Time draw -- Time chunk - Length: 0.05911330049261085s
+2018-10-14 12:57:08.792 INFO Time draw -- Time chunk - Length: 0.061576354679802964s
+2018-10-14 12:57:09.015 INFO Time draw -- Time chunk - Length: 0.06896551724137932s
+2018-10-14 12:57:09.280 INFO Time draw -- Time chunk - Length: 0.08128078817733991s
+2018-10-14 12:57:09.470 INFO Time draw -- Time chunk - Length: 0.08374384236453203s
+2018-10-14 12:57:09.900 INFO Time draw -- Time chunk - Length: 0.06896551724137932s
+2018-10-14 12:57:10.435 INFO Time draw -- Time chunk - Length: 0.049261083743842374s
+2018-10-14 12:57:10.667 INFO Time draw -- Time chunk - Length: 0.049261083743842374s
+2018-10-14 12:57:10.846 INFO Time draw -- Time chunk - Length: 0.04679802955665025s
+2018-10-14 12:57:10.976 INFO Time draw -- Time chunk - Length: 0.04679802955665025s
+2018-10-14 12:57:11.112 INFO Time draw -- Time chunk - Length: 0.04679802955665025s
+2018-10-14 12:57:11.673 INFO Time draw -- Time chunk - Length: 0.07142857142857144s
+2018-10-14 12:57:11.871 INFO Time draw -- Time chunk - Length: 0.05911330049261085s
+2018-10-14 12:57:12.060 INFO Time draw -- Time chunk - Length: 0.07635467980295567s
+2018-10-14 12:57:12.262 INFO Time draw -- Complete - Time chunks:[0.02, 0.02, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.06, 0.06, 0.07, 0.08, 0.08, 0.07, 0.05, 0.05, 0.05, 0.05, 0.05, 0.07, 0.06, 0.08, 0.09]
+2018-10-14 12:57:12.308 INFO Time draw -- Time chunk - Length: 0.08620689655172414s
+2018-10-14 12:57:12.531 INFO Time draw -- Complete - Time chunks:[0.02, 0.02, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.05, 0.05, 0.05, 0.06, 0.06, 0.07, 0.08, 0.08, 0.07, 0.05, 0.05, 0.05, 0.05, 0.05, 0.07, 0.06, 0.08, 0.09, 0.08]
+2018-10-14 12:57:12.590 INFO Time draw -- Time chunk - Length: 0.08374384236453203s
+2018-10-14 12:57:14.406 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:57:14.523 INFO Signal handler -- Samples imported
+2018-10-14 12:57:16.062 INFO Signal handler -- Length: 19.999s  Channels: 1  Samples: 440984  Sample rate: 22050Hz
+2018-10-14 12:57:17.771 INFO Master splicer -- Done splicing audio
+2018-10-14 12:57:35.586 INFO Signal handler -- Playing sound file...
+2018-10-14 12:57:55.800 INFO Signal handler -- Audio file done playing
+2018-10-14 12:58:08.548 INFO Time draw -- Time chunk - Length: 0.04655172413793104s
+2018-10-14 12:58:09.270 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 12:58:09.543 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 12:58:09.719 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 12:58:09.900 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 12:58:10.068 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 12:58:10.185 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 12:58:10.334 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 12:58:10.559 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 12:58:10.800 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 12:58:11.385 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:11.550 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:11.713 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:12.043 INFO Time draw -- Time chunk - Length: 0.03620689655172414s
+2018-10-14 12:58:12.282 INFO Time draw -- Time chunk - Length: 0.03620689655172414s
+2018-10-14 12:58:12.535 INFO Time draw -- Time chunk - Length: 0.032758620689655175s
+2018-10-14 12:58:13.131 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:13.242 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:13.369 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:13.551 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:13.779 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:13.975 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:14.134 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:14.410 INFO Time draw -- Time chunk - Length: 0.03793103448275862s
+2018-10-14 12:58:14.613 INFO Time draw -- Time chunk - Length: 0.041379310344827586s
+2018-10-14 12:58:14.930 INFO Time draw -- Time chunk - Length: 0.04482758620689655s
+2018-10-14 12:58:15.193 INFO Time draw -- Time chunk - Length: 0.04482758620689655s
+2018-10-14 12:58:15.316 INFO Time draw -- Complete - Time chunks:[0.05, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04]
+2018-10-14 12:58:15.362 INFO Time draw -- Time chunk - Length: 0.04482758620689655s
+2018-10-14 12:58:15.570 INFO Time draw -- Complete - Time chunks:[0.05, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.03, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04, 0.04]
+2018-10-14 12:58:15.615 INFO Time draw -- Time chunk - Length: 0.04482758620689655s
+2018-10-14 12:58:19.077 INFO Master splicer -- Splicing audio together...
+2018-10-14 12:58:19.218 INFO Signal handler -- Samples imported
+2018-10-14 12:58:20.811 INFO Signal handler -- Length: 19.999s  Channels: 1  Samples: 440984  Sample rate: 22050Hz
+2018-10-14 12:58:22.544 INFO Master splicer -- Done splicing audio
+2018-10-14 12:58:39.915 INFO Signal handler -- Playing sound file...
+2018-10-14 12:59:00.148 INFO Signal handler -- Audio file done playing
+2018-10-14 12:59:52.621 INFO Master splicer -- Initializing...
+2018-10-14 12:59:52.634 INFO Signal handler -- Initializing...
+2018-10-14 12:59:52.681 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 12:59:52.704 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:59:53.280 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:59:53.322 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:59:53.336 INFO Signal handler -- Initializing...
+2018-10-14 12:59:53.393 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 12:59:53.415 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:59:54.008 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:59:54.050 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:59:54.065 INFO Signal handler -- Initializing...
+2018-10-14 12:59:54.115 INFO Signal handler -- Audio file imported - Name: ClipFly me to the moon.wav
+2018-10-14 12:59:54.139 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 12:59:54.666 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 12:59:54.703 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 12:59:54.716 INFO Signal handler -- Initializing...
+2018-10-14 12:59:54.760 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 12:59:54.779 INFO Splicer tools -- Initializing...
+2018-10-14 12:59:54.811 INFO Time draw -- Initializing...
+2018-10-14 12:59:54.862 INFO Time draw -- Setup complete
+2018-10-14 12:59:54.877 INFO Splicer tools -- Setup complete
+2018-10-14 12:59:54.890 INFO Master splicer -- Setup complete
+2018-10-14 12:59:54.934 INFO Master splicer -- Showing gui
+2018-10-14 13:01:18.217 INFO Master splicer -- Initializing...
+2018-10-14 13:01:18.229 INFO Signal handler -- Initializing...
+2018-10-14 13:01:18.278 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 13:01:18.300 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:01:18.794 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:01:18.834 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:01:18.846 INFO Signal handler -- Initializing...
+2018-10-14 13:01:18.895 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 13:01:18.915 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:01:19.435 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:01:19.483 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:01:19.496 INFO Signal handler -- Initializing...
+2018-10-14 13:01:19.545 INFO Signal handler -- Audio file imported - Name: ClipFly me to the moon.wav
+2018-10-14 13:01:19.568 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:01:20.080 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:01:20.118 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:01:20.130 INFO Signal handler -- Initializing...
+2018-10-14 13:01:20.195 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:01:20.214 INFO Splicer tools -- Initializing...
+2018-10-14 13:01:20.253 INFO Time draw -- Initializing...
+2018-10-14 13:01:20.287 INFO Time draw -- Setup complete
+2018-10-14 13:01:20.305 INFO Splicer tools -- Setup complete
+2018-10-14 13:01:20.319 INFO Master splicer -- Setup complete
+2018-10-14 13:01:20.369 INFO Master splicer -- Showing gui
+2018-10-14 13:02:09.281 INFO Time draw -- Time chunk - Length: 0.05517241379310345s
+2018-10-14 13:02:10.626 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:10.842 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:11.577 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:11.811 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:12.037 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:12.336 INFO Time draw -- Time chunk - Length: 0.015517241379310345s
+2018-10-14 13:02:12.584 INFO Time draw -- Time chunk - Length: 0.017241379310344827s
+2018-10-14 13:02:12.809 INFO Time draw -- Time chunk - Length: 0.01896551724137931s
+2018-10-14 13:02:13.099 INFO Time draw -- Time chunk - Length: 0.01896551724137931s
+2018-10-14 13:02:13.385 INFO Time draw -- Time chunk - Length: 0.01896551724137931s
+2018-10-14 13:02:13.650 INFO Time draw -- Time chunk - Length: 0.017241379310344827s
+2018-10-14 13:02:13.900 INFO Time draw -- Time chunk - Length: 0.017241379310344827s
+2018-10-14 13:02:14.214 INFO Time draw -- Time chunk - Length: 0.017241379310344827s
+2018-10-14 13:02:14.439 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:14.658 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:15.101 INFO Time draw -- Time chunk - Length: 0.01206896551724138s
+2018-10-14 13:02:15.506 INFO Time draw -- Time chunk - Length: 0.01206896551724138s
+2018-10-14 13:02:15.738 INFO Time draw -- Time chunk - Length: 0.01206896551724138s
+2018-10-14 13:02:16.484 INFO Time draw -- Time chunk - Length: 0.01206896551724138s
+2018-10-14 13:02:16.557 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:16.648 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:16.776 INFO Time draw -- Time chunk - Length: 0.01896551724137931s
+2018-10-14 13:02:16.992 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 13:02:17.167 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 13:02:17.497 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 13:02:17.913 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 13:02:18.379 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:18.700 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:19.282 INFO Time draw -- Time chunk - Length: 0.015517241379310345s
+2018-10-14 13:02:19.627 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:19.827 INFO Time draw -- Time chunk - Length: 0.01206896551724138s
+2018-10-14 13:02:19.917 INFO Time draw -- Time chunk - Length: 0.008620689655172414s
+2018-10-14 13:02:20.017 INFO Time draw -- Time chunk - Length: 0.008620689655172414s
+2018-10-14 13:02:20.562 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:21.119 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:21.824 INFO Time draw -- Time chunk - Length: 0.013793103448275862s
+2018-10-14 13:02:21.918 INFO Time draw -- Time chunk - Length: 0.015517241379310345s
+2018-10-14 13:02:21.998 INFO Time draw -- Time chunk - Length: 0.017241379310344827s
+2018-10-14 13:02:22.119 INFO Time draw -- Time chunk - Length: 0.01896551724137931s
+2018-10-14 13:02:22.255 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:22.432 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:22.642 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:23.017 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:24.026 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 13:02:24.272 INFO Time draw -- Time chunk - Length: 0.02586206896551724s
+2018-10-14 13:02:24.438 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:24.564 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:24.720 INFO Time draw -- Time chunk - Length: 0.020689655172413793s
+2018-10-14 13:02:24.966 INFO Time draw -- Time chunk - Length: 0.022413793103448276s
+2018-10-14 13:02:25.176 INFO Time draw -- Time chunk - Length: 0.027586206896551724s
+2018-10-14 13:02:25.537 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 13:02:25.851 INFO Time draw -- Complete - Time chunks:[0.06, 0.02, 0.02, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.03, 0.03, 0.03, 0.03, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.03, 0.03, 0.02, 0.02, 0.02, 0.02, 0.03, 0.03, 0.03]
+2018-10-14 13:02:25.892 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 13:02:26.070 INFO Time draw -- Complete - Time chunks:[0.06, 0.02, 0.02, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.03, 0.03, 0.03, 0.03, 0.02, 0.02, 0.02, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.01, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.02, 0.03, 0.03, 0.02, 0.02, 0.02, 0.02, 0.03, 0.03, 0.03, 0.03]
+2018-10-14 13:02:26.113 INFO Time draw -- Time chunk - Length: 0.029310344827586206s
+2018-10-14 13:02:35.224 INFO Master splicer -- Splicing audio together...
+2018-10-14 13:02:35.337 INFO Signal handler -- Samples imported
+2018-10-14 13:02:36.855 INFO Signal handler -- Length: 19.999s  Channels: 1  Samples: 440970  Sample rate: 22050Hz
+2018-10-14 13:02:38.642 INFO Master splicer -- Done splicing audio
+2018-10-14 13:02:55.815 INFO Signal handler -- Playing sound file...
+2018-10-14 13:02:59.534 INFO Signal handler -- Audio paused
+2018-10-14 13:02:59.755 INFO Signal handler -- Audio file done playing
+2018-10-14 13:10:41.180 INFO Master splicer -- Initializing...
+2018-10-14 13:10:41.187 INFO Signal handler -- Initializing...
+2018-10-14 13:10:41.212 INFO Signal handler -- Audio file imported - Name: ClipBad romance.wav
+2018-10-14 13:10:41.227 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:10:41.651 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:10:41.685 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:10:41.695 INFO Signal handler -- Initializing...
+2018-10-14 13:10:41.725 INFO Signal handler -- Audio file imported - Name: ClipRubber biscuit.wav
+2018-10-14 13:10:41.742 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:10:42.400 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:10:42.430 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:10:42.437 INFO Signal handler -- Initializing...
+2018-10-14 13:10:42.461 INFO Signal handler -- Audio file imported - Name: ClipFly me to the moon.wav
+2018-10-14 13:10:42.477 WARN Signal handler -- Channel update failed - Old: [0] 
+2018-10-14 13:10:43.126 INFO Signal handler -- Length: 20.0s  Channels: 2  Samples: 441000  Sample rate: 22050Hz
+2018-10-14 13:10:43.155 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:10:43.162 INFO Signal handler -- Initializing...
+2018-10-14 13:10:43.183 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:10:43.190 INFO Splicer tools -- Initializing...
+2018-10-14 13:10:43.198 INFO Time draw -- Initializing...
+2018-10-14 13:10:43.222 INFO Time draw -- Setup complete
+2018-10-14 13:10:43.229 INFO Splicer tools -- Setup complete
+2018-10-14 13:10:43.238 INFO Master splicer -- Setup complete
+2018-10-14 13:10:43.246 INFO Master splicer -- Showing gui
+2018-10-14 13:16:32.755 INFO Master rearranger -- Initializing...
+2018-10-14 13:16:32.764 INFO Signal handler -- Initializing...
+2018-10-14 13:16:32.802 WARN Signal handler -- File import failed! - Name: ['cats.wav']
+2018-10-14 13:16:32.812 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:16:32.836 INFO Signal handler -- Initializing...
+2018-10-14 13:16:32.867 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:16:32.877 INFO Rearranger tools -- Initializing...
+2018-10-14 13:16:32.914 INFO Rearranger tools -- Setup complete
+2018-10-14 13:16:32.926 INFO Master rearranger -- Setup complete
+2018-10-14 13:17:00.670 INFO Master rearranger -- Initializing...
+2018-10-14 13:17:00.682 INFO Signal handler -- Initializing...
+2018-10-14 13:17:00.710 WARN Signal handler -- File import failed! - Name: cats.wav
+2018-10-14 13:17:00.723 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:17:00.746 INFO Signal handler -- Initializing...
+2018-10-14 13:17:00.775 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:17:00.788 INFO Rearranger tools -- Initializing...
+2018-10-14 13:17:00.825 INFO Rearranger tools -- Setup complete
+2018-10-14 13:17:00.838 INFO Master rearranger -- Setup complete
+2018-10-14 13:17:12.707 INFO Master rearranger -- Initializing...
+2018-10-14 13:17:12.718 INFO Signal handler -- Initializing...
+2018-10-14 13:17:12.760 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 13:17:12.900 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 13:17:12.923 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:17:12.944 INFO Signal handler -- Initializing...
+2018-10-14 13:17:12.975 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:17:12.987 INFO Rearranger tools -- Initializing...
+2018-10-14 13:17:13.023 INFO Rearranger tools -- Setup complete
+2018-10-14 13:17:13.035 INFO Master rearranger -- Setup complete
+2018-10-14 13:19:15.848 INFO Signal handler -- Initializing...
+2018-10-14 13:19:15.876 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 13:19:16.015 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 13:19:16.040 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:19:37.674 INFO Signal handler -- Initializing...
+2018-10-14 13:19:37.702 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 13:19:37.909 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 13:19:37.932 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:19:37.944 INFO Signal handler -- Showing gui
+2018-10-14 13:20:04.927 INFO Master rearranger -- Initializing...
+2018-10-14 13:20:04.938 INFO Signal handler -- Initializing...
+2018-10-14 13:20:04.976 INFO Signal handler -- Audio file imported - Name: cats_001.wav
+2018-10-14 13:20:05.121 INFO Signal handler -- Length: 8.0s  Channels: 1  Samples: 128000  Sample rate: 16000Hz
+2018-10-14 13:20:05.142 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:20:05.157 INFO Signal handler -- Initializing...
+2018-10-14 13:20:05.195 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:20:05.206 INFO Rearranger tools -- Initializing...
+2018-10-14 13:20:05.233 INFO Rearranger tools -- Setup complete
+2018-10-14 13:20:05.245 INFO Master rearranger -- Setup complete
+2018-10-14 13:20:18.943 INFO Signal handler -- Initializing...
+2018-10-14 13:20:18.973 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:20:18.985 INFO Signal handler -- Showing gui
+2018-10-14 13:20:28.882 INFO Master rearranger -- Initializing...
+2018-10-14 13:20:28.892 INFO Signal handler -- Initializing...
+2018-10-14 13:20:28.924 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:20:28.935 INFO Signal handler -- Initializing...
+2018-10-14 13:20:28.977 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:20:28.988 INFO Rearranger tools -- Initializing...
+2018-10-14 13:20:29.022 INFO Rearranger tools -- Setup complete
+2018-10-14 13:20:29.036 INFO Master rearranger -- Setup complete
+2018-10-14 13:21:02.406 INFO Master splicer -- Initializing...
+2018-10-14 13:21:02.417 INFO Signal handler -- Initializing...
+2018-10-14 13:21:02.458 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:02.470 INFO Signal handler -- Initializing...
+2018-10-14 13:21:02.507 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:02.519 INFO Signal handler -- Initializing...
+2018-10-14 13:21:02.556 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:02.566 INFO Splicer tools -- Initializing...
+2018-10-14 13:21:02.591 INFO Time draw -- Initializing...
+2018-10-14 13:21:02.621 INFO Time draw -- Setup complete
+2018-10-14 13:21:02.633 INFO Splicer tools -- Setup complete
+2018-10-14 13:21:02.658 INFO Master splicer -- Setup complete
+2018-10-14 13:21:44.430 INFO Master splicer -- Initializing...
+2018-10-14 13:21:44.440 INFO Signal handler -- Initializing...
+2018-10-14 13:21:44.484 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:44.494 INFO Signal handler -- Initializing...
+2018-10-14 13:21:44.532 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:44.543 INFO Signal handler -- Initializing...
+2018-10-14 13:21:44.583 INFO Signal handler -- Setup complete - Signal imported: 0
+2018-10-14 13:21:44.594 INFO Splicer tools -- Initializing...
+2018-10-14 13:21:44.618 INFO Time draw -- Initializing...
+2018-10-14 13:21:44.648 INFO Time draw -- Setup complete
+2018-10-14 13:21:44.658 INFO Splicer tools -- Setup complete
+2018-10-14 13:21:44.683 INFO Master splicer -- Setup complete
+2018-10-14 13:21:44.698 INFO Master splicer -- Showing gui
+2018-10-14 13:23:00.952 INFO Signal handler -- Initializing...
+2018-10-14 13:23:00.980 INFO Signal handler -- Audio file imported - Name: cats_000.wav
+2018-10-14 13:23:01.124 INFO Signal handler -- Length: 6.3s  Channels: 1  Samples: 100800  Sample rate: 16000Hz
+2018-10-14 13:23:01.150 INFO Signal handler -- Setup complete - Signal imported: 1
+2018-10-14 13:23:01.167 INFO Signal handler -- Showing gui
+2018-10-14 13:23:10.292 INFO Signal handler -- Playing sound file...
+2018-10-14 13:23:16.828 INFO Signal handler -- Audio file done playing
