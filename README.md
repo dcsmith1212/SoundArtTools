@@ -136,6 +136,8 @@ General:
 	-- improve memory efficiency
 	-- use JS callbacks
 	-- identify way to couple channels
+	-- Add gifs
+	-- Add sample audio with parameters
 
 Player:
 	-- improve scroll along
