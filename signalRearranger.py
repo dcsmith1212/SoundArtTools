@@ -202,7 +202,10 @@ def testMasterRearranger():
 	signalFilename = "2ch.wav"
 	mS = masterRearranger(signalFilename)
 
+	mS.shuffleButtonCallback()
 	#start empty
-	mS = masterRearranger()
+	# mS = masterRearranger()
 
-	mS.showGUI()
+	mS.showGui()
+	
+# testMasterRearranger()

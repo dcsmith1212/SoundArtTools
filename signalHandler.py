@@ -908,5 +908,6 @@ def testSignalHandler():
 	# # bad filename test
 	# sH = signalHandler(signalFilename = "piaaa")
 
-	sH.playSound()
+	# sH.playSound()
 	sH.showGui()
+# testSignalHandler()

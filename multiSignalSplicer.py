@@ -150,7 +150,7 @@ class multiSignalSplicer:
 		self.audioSink.updateMapperPalette(self.colorPallete)
 
 def testSignalSplicer():
-	signalFilenames = ["cats_000.wav","cats_001.wav","2ch.wav"]
+	signalFilenames = ["cats_000.wav","cats_001.wav"]
 	# signalFilenames = ["ClipBad romance.wav","ClipRubber biscuit.wav","ClipFly me to the moon.wav"]
 
 	mAs = multiSignalSplicer(signalFilenames)

@@ -27,7 +27,7 @@ class audioLogger:
 			"WARN": Fore.YELLOW + Style.BRIGHT
 			}
 
-	    self.logPath = os.path.join("logs")
+		self.logPath = os.path.join("logs")
 		self.logFilename = os.path.join(self.logPath,"log.txt")
 
 	def parseLogDict(self,logIn):
