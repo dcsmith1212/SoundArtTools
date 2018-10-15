@@ -96,13 +96,14 @@ Uses chunk drawer - a way to choose which signal is active at times
 
 ## Chunk Tool
 
-### Uses mouse position to set chunk window lengths
-* How it works
-	A vertical line is drawn at t=0
-	The yVal at which this line is crossed determines the chunk length of the next chunk
-	A new vertical line is drawn at t=yVal, representing the  timestamp at which the _next_ chunk will begin
-	The yVal at which this line is crossed determines the chunk length of the next chunk.
-	Repeat
+Uses mouse position to set chunk window lengths
+
+### How it works
+* A vertical line is drawn at t=0
+* The yVal at which this line is crossed determines the chunk length of the next chunk
+* A new vertical line is drawn at t=yVal, representing the  timestamp at which the _next_ chunk will begin
+* The yVal at which this line is crossed determines the chunk length of the next chunk.
+* Repeat
 
 * Supports time or sample units
 * Supports skipping signals by setting yVal<0
