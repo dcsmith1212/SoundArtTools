@@ -35,6 +35,8 @@ Eg to run the Splicer with two audio sources, cd into soundArtTools directory an
 # Tools available:
 
 ## Player - Base tool 
+![Signal player tool](/images/signalHandler.PNG?raw=true "Signal handler waveform view")
+![Signal player tool](/images/signalHandlerSpectrogram.PNG?raw=true "Signal handler spectrogram view")
 
 ### Capable of being a source or sink of audio files
 * load in audio by filename
@@ -56,6 +58,8 @@ Eg to run the Splicer with two audio sources, cd into soundArtTools directory an
 * Allows seleting start/end lyric to set trim time bounds
 
 ## Splicer - tool to mesh together multiple signals
+![Signal splicer tool](/images/multiSignalSplicer.PNG?raw=true "Signal splicer view")
+
 Uses chunk drawer - a way to choose which signal is active at times
 
 ### Operates on N+1 audioHandlers and 1 time drawer:
@@ -63,6 +67,7 @@ Uses chunk drawer - a way to choose which signal is active at times
 * 1 sink
 
 ## Signal shuffler - A tool to switch around samples within a signal
+![Signal shuffler tool](/images/rearranger.PNG?raw=true "Signal rearranger")
 
 ### Operates on an 2 audioHandlers:
 * 1 sink
@@ -82,7 +87,7 @@ Uses chunk drawer - a way to choose which signal is active at times
 # Auxillary Tools:
 
 ## Logger
-
+![Logger tool](/images/logger.PNG?raw=true "Logger")
 ### Outputs relevant logs to the console and text file with following info:
 * Severity
 * Timestamp
